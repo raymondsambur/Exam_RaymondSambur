@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         plugin = {"html:build/result"},
         stepNotifications = true,
-        tags = {"@Web"}
+        tags = {"@Android or @Web"}
         //tags = {"@Android or @Web"}
 )
 public class CucumberRunner {

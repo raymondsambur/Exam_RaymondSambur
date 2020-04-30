@@ -6,26 +6,27 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/demo/controller/PokemonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/demo/controller/PokemonController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/Pokemon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Pokemon.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Pokemon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Pokemon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Pokemon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Pokemon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/ClearCompletedTodos.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/ClearCompletedTodos.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/CreateTodos.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/CreateTodos.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/FilterTodoActiveOnly.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/FilterTodoActiveOnly.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/FilterTodoCompleteOnly.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/FilterTodoCompleteOnly.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/RefershTodos.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/RefershTodos.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/SearchPokemonByName.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/SearchPokemonByName.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/result/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Pokemon.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ClearCompletedTodos.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ClearCompletedTodos.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/CreateTodos.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/CreateTodos.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/FilterTodoActiveOnly.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/FilterTodoActiveOnly.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/FilterTodoCompleteOnly.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/FilterTodoCompleteOnly.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/RefershTodos.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/RefershTodos.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/CucumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demo/CucumberRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.Pokemon.getPokemon">
+  <component name="RunManager" selected="Gradle.CucumberRunner">
     <configuration name="CucumberRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -101,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Pokemon.getPokemon" />
         <item itemvalue="Gradle.CucumberRunner" />
+        <item itemvalue="Gradle.Pokemon.getPokemon" />
       </list>
     </recent_temporary>
   </component>
@@ -124,42 +125,50 @@
       <option name="project" value="LOCAL" />
       <updated>1588235010404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixing Scenarios">
+      <created>1588235255824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588235255824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixing Pokemon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing Pokemon" />
+    <MESSAGE value="Fixing Scenarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing Scenarios" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="52" key="CommitChangelistDialog2" timestamp="1588235010135">
+    <state x="274" y="52" key="CommitChangelistDialog2" timestamp="1588235255598">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="274" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588235010135" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588234894616">
+    <state x="274" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588235255598" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588235720340">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588234894616" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588235720340" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1588217927044" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588234894615">
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588235720339">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588234894615" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588235720339" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1588217927043" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588234894615">
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588235720339">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588234894615" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588235720339" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1588217927043" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588234894616">
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588235720340">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588234894616" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588235720340" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1588217927044" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1588235012487">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1588235257539">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1588235012487" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1588235257539" />
     <state x="477" y="378" width="613" height="143" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1588226342269">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

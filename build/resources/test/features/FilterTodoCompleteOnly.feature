@@ -1,7 +1,7 @@
 @Android
 Feature: Filtering complete task only
 
-  Scenario:
+  Scenario: user press Complete Only button on filter
     Given User is on to do list page
     When User press filter button
     And User press complete button
