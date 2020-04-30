@@ -1,7 +1,7 @@
 @Android
   Feature: Clear Completed Todos
 
-    Scenario: clear completed todos
+    Scenario: User clear all completed todos
       Given User is on to do list page
       When User click button add new task
       And User see add new task page

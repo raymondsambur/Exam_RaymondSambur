@@ -1,7 +1,7 @@
 @Android
-Feature: Create New Todo
+Feature: Create New Todos
 
-  Scenario: Add new task
+  Scenario: Add new task Showering
     Given User is on to do list page
     When User click button add new task
     And User see add new task page
@@ -10,7 +10,7 @@ Feature: Create New Todo
     And User click button finish add new task
     Then User is on to do list page
 
-  Scenario: Add new task
+  Scenario: Add new task Study
     Given User is on to do list page
     When User click button add new task
     And User see add new task page
@@ -19,7 +19,7 @@ Feature: Create New Todo
     And User click button finish add new task
     Then User is on to do list page
 
-  Scenario: Add new task
+  Scenario: Add new task Play games
     Given User is on to do list page
     When User click button add new task
     And User see add new task page
